@@ -1,0 +1,1335 @@
+{
+  "objects": [
+    {
+      "downloads": {
+        "monthly": 2922456,
+        "weekly": 771153
+      },
+      "dependents": "5",
+      "updated": "2026-07-25T09:22:27.583Z",
+      "searchScore": 146.39342,
+      "package": {
+        "name": "ml-xsadd",
+        "keywords": [
+          "xsadd",
+          "xorshift",
+          "add",
+          "pseudo",
+          "random",
+          "number",
+          "generator",
+          "machine",
+          "learning"
+        ],
+        "version": "3.0.1",
+        "description": "JavaScript implementation of the XORSHIFT-ADD (XSadd) pseudo random number generator",
+        "sanitized_name": "ml-xsadd",
+        "publisher": {
+          "email": "bot+npm-mljs@zakodium.com",
+          "username": "mljs-bot"
+        },
+        "maintainers": [
+          {
+            "email": "kostro.d@gmail.com",
+            "username": "stropitek"
+          },
+          {
+            "email": "targos+npm@protonmail.com",
+            "username": "targos"
+          },
+          {
+            "email": "luc@patiny.com",
+            "username": "lpatiny"
+          },
+          {
+            "email": "bot+npm-mljs@zakodium.com",
+            "username": "mljs-bot"
+          }
+        ],
+        "license": "MIT",
+        "date": "2024-10-18T07:57:36.516Z",
+        "links": {
+          "homepage": "https://github.com/mljs/xsadd#readme",
+          "repository": "git+https://github.com/mljs/xsadd.git",
+          "bugs": "https://github.com/mljs/xsadd/issues",
+          "npm": "https://www.npmjs.com/package/ml-xsadd"
+        }
+      },
+      "score": {
+        "final": 146.39342,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 4300,
+        "weekly": 1076
+      },
+      "dependents": "2",
+      "updated": "2026-07-22T12:51:25.298Z",
+      "searchScore": 135.78012,
+      "package": {
+        "name": "@dsibilly/mersenne-twister",
+        "keywords": [],
+        "version": "2.0.0",
+        "description": "A native JS implementation of the Mersenne Twister PRNG.",
+        "sanitized_name": "@dsibilly/mersenne-twister",
+        "publisher": {
+          "email": "duane@sibilly.com",
+          "username": "dsibilly"
+        },
+        "maintainers": [
+          {
+            "email": "duane@sibilly.com",
+            "username": "dsibilly"
+          }
+        ],
+        "license": "MIT",
+        "date": "2021-12-07T23:59:58.049Z",
+        "links": {
+          "homepage": "https://github.com/dsibilly/mersenne-twister/",
+          "repository": "git://github.com/dsibilly/mersenne-twister.git",
+          "bugs": "https://github.com/dsibilly/mersenne-twister/issues",
+          "npm": "https://www.npmjs.com/package/@dsibilly/mersenne-twister"
+        }
+      },
+      "score": {
+        "final": 135.78012,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 52379,
+        "weekly": 14995
+      },
+      "dependents": "0",
+      "updated": "2026-07-25T09:23:43.363Z",
+      "searchScore": 128.45764,
+      "package": {
+        "name": "@types/mersennetwister",
+        "keywords": [],
+        "version": "0.2.3",
+        "description": "TypeScript definitions for mersennetwister",
+        "sanitized_name": "@types/mersennetwister",
+        "publisher": {
+          "email": "ts-npm-types@microsoft.com",
+          "username": "types"
+        },
+        "maintainers": [
+          {
+            "email": "ts-npm-types@microsoft.com",
+            "username": "types"
+          }
+        ],
+        "license": "MIT",
+        "date": "2023-11-21T00:33:17.143Z",
+        "links": {
+          "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/mersennetwister",
+          "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "npm": "https://www.npmjs.com/package/@types/mersennetwister"
+        }
+      },
+      "score": {
+        "final": 128.45764,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 1287055,
+        "weekly": 345481
+      },
+      "dependents": "3",
+      "updated": "2026-07-25T09:23:34.695Z",
+      "searchScore": 127.91189,
+      "package": {
+        "name": "pcg",
+        "keywords": [
+          "prng",
+          "rng",
+          "random",
+          "seeded",
+          "seedable",
+          "deterministic",
+          "reproducible",
+          "pcg",
+          "sfc32",
+          "mulberry32"
+        ],
+        "version": "3.0.0",
+        "description": "A functional typescript implementation of the PCG family random number generators",
+        "sanitized_name": "pcg",
+        "publisher": {
+          "email": "philihp@gmail.com",
+          "username": "philihp"
+        },
+        "maintainers": [
+          {
+            "email": "philihp@gmail.com",
+            "username": "philihp"
+          },
+          {
+            "email": "kripod@protonmail.com",
+            "username": "kripod"
+          }
+        ],
+        "license": "MIT",
+        "date": "2026-05-22T01:07:17.872Z",
+        "links": {
+          "homepage": "https://github.com/philihp/pcg#readme",
+          "repository": "git+https://github.com/philihp/pcg.git",
+          "bugs": "https://github.com/philihp/pcg/issues",
+          "npm": "https://www.npmjs.com/package/pcg"
+        }
+      },
+      "score": {
+        "final": 127.91189,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 104120,
+        "weekly": 20732
+      },
+      "dependents": "2",
+      "updated": "2026-07-25T09:23:25.975Z",
+      "searchScore": 126.51212,
+      "package": {
+        "name": "fast-mersenne-twister",
+        "keywords": [
+          "mersenne",
+          "twister",
+          "mersenne twister",
+          "mersennetwister",
+          "fast",
+          "performance",
+          "performant",
+          "random",
+          "number",
+          "generator",
+          "seed",
+          "seedable",
+          "seeded",
+          "rng",
+          "prng"
+        ],
+        "version": "1.0.3",
+        "description": "A fast Mersenne Twister",
+        "sanitized_name": "fast-mersenne-twister",
+        "publisher": {
+          "email": "websites@thomasrandolph.info",
+          "username": "rockerest"
+        },
+        "maintainers": [
+          {
+            "email": "websites@thomasrandolph.info",
+            "username": "rockerest"
+          }
+        ],
+        "license": "MIT",
+        "date": "2021-01-18T07:57:42.988Z",
+        "links": {
+          "homepage": "https://gitlab.com/rockerest/fast-mersenne-twister#readme",
+          "repository": "git+https://gitlab.com/rockerest/fast-mersenne-twister.git",
+          "bugs": "https://gitlab.com/rockerest/fast-mersenne-twister/issues",
+          "npm": "https://www.npmjs.com/package/fast-mersenne-twister"
+        }
+      },
+      "score": {
+        "final": 126.51212,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 2963160,
+        "weekly": 880958
+      },
+      "dependents": "191",
+      "updated": "2026-07-25T09:22:05.349Z",
+      "searchScore": 120.99133,
+      "package": {
+        "name": "mersenne-twister",
+        "keywords": [
+          "random",
+          "mersenne",
+          "twister",
+          "mersennetwister",
+          "generator",
+          "seed"
+        ],
+        "version": "1.1.0",
+        "description": "Mersenne twister pseudorandom number generator",
+        "sanitized_name": "mersenne-twister",
+        "publisher": {
+          "email": "boo1ean0807@gmail.com",
+          "username": "boo1ean"
+        },
+        "maintainers": [
+          {
+            "email": "boo1ean0807@gmail.com",
+            "username": "boo1ean"
+          }
+        ],
+        "license": "MIT",
+        "date": "2016-08-01T08:43:48.858Z",
+        "links": {
+          "homepage": "https://github.com/boo1ean/mersenne-twister",
+          "repository": "git://github.com/boo1ean/mersenne-twister.git",
+          "bugs": "https://github.com/boo1ean/mersenne-twister/issues",
+          "npm": "https://www.npmjs.com/package/mersenne-twister"
+        }
+      },
+      "score": {
+        "final": 120.99133,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 68964,
+        "weekly": 16767
+      },
+      "dependents": "3",
+      "updated": "2026-07-25T09:23:48.981Z",
+      "searchScore": 116.88676,
+      "package": {
+        "name": "uint-rng",
+        "keywords": [
+          "rng",
+          "random",
+          "number",
+          "generator",
+          "uint",
+          "integer"
+        ],
+        "version": "1.2.1",
+        "description": "A tiny isomorphic Random Number Generator for generating 1/8/16/32/64-bits unsigned integers.",
+        "sanitized_name": "uint-rng",
+        "publisher": {
+          "email": "spampinabio@gmail.com",
+          "username": "fabiospampinato"
+        },
+        "maintainers": [
+          {
+            "email": "spampinabio@gmail.com",
+            "username": "fabiospampinato"
+          }
+        ],
+        "license": "MIT",
+        "date": "2025-01-13T23:16:00.781Z",
+        "links": {
+          "homepage": "https://github.com/fabiospampinato/uint-rng#readme",
+          "repository": "git+https://github.com/fabiospampinato/uint-rng.git",
+          "bugs": "https://github.com/fabiospampinato/uint-rng/issues",
+          "npm": "https://www.npmjs.com/package/uint-rng"
+        }
+      },
+      "score": {
+        "final": 116.88676,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 17522968,
+        "weekly": 4127581
+      },
+      "dependents": "9",
+      "updated": "2026-07-25T09:17:46.997Z",
+      "searchScore": 103.440475,
+      "package": {
+        "name": "postgres-range",
+        "keywords": [],
+        "version": "1.1.4",
+        "description": "Range data type parser and serializer for PostgreSQL",
+        "sanitized_name": "postgres-range",
+        "publisher": {
+          "email": "martianboy2005@gmail.com",
+          "username": "martianboy"
+        },
+        "maintainers": [
+          {
+            "email": "martianboy2005@gmail.com",
+            "username": "martianboy"
+          }
+        ],
+        "license": "MIT",
+        "date": "2024-01-29T19:12:17.934Z",
+        "links": {
+          "homepage": "https://github.com/martianboy/postgres-range#readme",
+          "repository": "git+https://github.com/martianboy/postgres-range.git",
+          "bugs": "https://github.com/martianboy/postgres-range/issues",
+          "npm": "https://www.npmjs.com/package/postgres-range"
+        }
+      },
+      "score": {
+        "final": 103.440475,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 71753,
+        "weekly": 21166
+      },
+      "dependents": "14",
+      "updated": "2026-07-25T09:19:59.126Z",
+      "searchScore": 96.928055,
+      "package": {
+        "name": "@types/mersenne-twister",
+        "keywords": [],
+        "version": "1.1.7",
+        "description": "TypeScript definitions for mersenne-twister",
+        "sanitized_name": "@types/mersenne-twister",
+        "publisher": {
+          "email": "ts-npm-types@microsoft.com",
+          "username": "types"
+        },
+        "maintainers": [
+          {
+            "email": "ts-npm-types@microsoft.com",
+            "username": "types"
+          }
+        ],
+        "license": "MIT",
+        "date": "2023-11-07T10:59:39.505Z",
+        "links": {
+          "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/mersenne-twister",
+          "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "npm": "https://www.npmjs.com/package/@types/mersenne-twister"
+        }
+      },
+      "score": {
+        "final": 96.928055,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 61923546,
+        "weekly": 16470016
+      },
+      "dependents": "88",
+      "updated": "2026-07-25T09:19:15.451Z",
+      "searchScore": 87.51839,
+      "package": {
+        "name": "d3-random",
+        "keywords": [
+          "d3",
+          "d3-module",
+          "random",
+          "rng"
+        ],
+        "version": "3.0.1",
+        "description": "Generate random numbers from various distributions.",
+        "sanitized_name": "d3-random",
+        "publisher": {
+          "email": "mike@ocks.org",
+          "username": "mbostock"
+        },
+        "maintainers": [
+          {
+            "email": "mike@ocks.org",
+            "username": "mbostock"
+          },
+          {
+            "email": "fil@rezo.net",
+            "username": "recifs"
+          }
+        ],
+        "license": "ISC",
+        "date": "2021-06-05T18:41:51.228Z",
+        "links": {
+          "homepage": "https://d3js.org/d3-random/",
+          "repository": "git+https://github.com/d3/d3-random.git",
+          "bugs": "https://github.com/d3/d3-random/issues",
+          "npm": "https://www.npmjs.com/package/d3-random"
+        }
+      },
+      "score": {
+        "final": 87.51839,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 3446,
+        "weekly": 529
+      },
+      "dependents": "2",
+      "updated": "2026-07-19T05:41:15.048Z",
+      "searchScore": 86.10214,
+      "package": {
+        "name": "@ironarachne/rng",
+        "keywords": [
+          "ironarachne",
+          "random"
+        ],
+        "version": "2.3.1",
+        "description": "A library for random number generation and various random ways of selecting items from arrays.",
+        "sanitized_name": "@ironarachne/rng",
+        "publisher": {
+          "email": "ben@overmyer.net",
+          "username": "bovermyer"
+        },
+        "maintainers": [
+          {
+            "email": "ben@overmyer.net",
+            "username": "bovermyer"
+          }
+        ],
+        "license": "MIT",
+        "date": "2026-03-18T10:36:08.017Z",
+        "links": {
+          "homepage": "https://rng.ironarachne.com/docs",
+          "repository": "git+https://codeberg.org/ironarachne/rng.git",
+          "bugs": "https://codeberg.org/ironarachne/rng/issues",
+          "npm": "https://www.npmjs.com/package/@ironarachne/rng"
+        }
+      },
+      "score": {
+        "final": 86.10214,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 1145492,
+        "weekly": 272305
+      },
+      "dependents": "409",
+      "updated": "2026-07-25T09:20:10.184Z",
+      "searchScore": 85.93524,
+      "package": {
+        "name": "ecpair",
+        "keywords": [
+          "bitcoinjs",
+          "bitcoin",
+          "browserify",
+          "javascript",
+          "bitcoinjs"
+        ],
+        "version": "3.0.1",
+        "description": "Client-side Bitcoin JavaScript library ECPair",
+        "sanitized_name": "ecpair",
+        "publisher": {
+          "email": "landabaso@gmail.com",
+          "username": "jl.landabaso"
+        },
+        "maintainers": [
+          {
+            "email": "jonathan.underwood4649@gmail.com",
+            "username": "junderw"
+          },
+          {
+            "email": "landabaso@gmail.com",
+            "username": "jl.landabaso"
+          }
+        ],
+        "license": "MIT",
+        "date": "2026-02-12T13:47:00.296Z",
+        "links": {
+          "homepage": "https://github.com/bitcoinjs/ecpair#readme",
+          "repository": "git+https://github.com/bitcoinjs/ecpair.git",
+          "bugs": "https://github.com/bitcoinjs/ecpair/issues",
+          "npm": "https://www.npmjs.com/package/ecpair"
+        }
+      },
+      "score": {
+        "final": 85.93524,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 131085,
+        "weekly": 29338
+      },
+      "dependents": "4",
+      "updated": "2026-07-25T09:23:03.994Z",
+      "searchScore": 84.70419,
+      "package": {
+        "name": "lib-r-math.js",
+        "keywords": [
+          "statistics",
+          "R",
+          "rstudio",
+          "r studio",
+          "r-studio",
+          "special functions",
+          "bessel",
+          "gamma",
+          "psigamma",
+          "digamma",
+          "trigamma",
+          "polygamma",
+          "beta",
+          "probability",
+          "densitity functions",
+          "quantile functions",
+          "binomial",
+          "negative binomial",
+          "cauchy",
+          "chi square sistribution",
+          "chi-square chisquare",
+          "exponential",
+          "f",
+          "snedecor's f",
+          "fisher–snedecor",
+          "geometric",
+          "hypergeometric",
+          "hyper geometric",
+          "logistic",
+          "lognormal",
+          "multinomial",
+          "normal",
+          "gaussian",
+          "poisson",
+          "student t",
+          "studentized range",
+          "tukey",
+          "uniform",
+          "weibull",
+          "wilcox",
+          "wilcoxon rank sum"
+        ],
+        "version": "3.0.2",
+        "description": "Javascript Implementation of Statistical R standalone library rnmath",
+        "sanitized_name": "lib-r-math-js",
+        "publisher": {
+          "email": "jkfbogers@gmail.com",
+          "username": "jacobbogers"
+        },
+        "maintainers": [
+          {
+            "email": "jkfbogers@gmail.com",
+            "username": "jacobbogers"
+          }
+        ],
+        "license": "SEE LICENSE IN LICENSE.txt",
+        "date": "2025-09-04T12:51:10.735Z",
+        "links": {
+          "homepage": "https://r.js.org",
+          "repository": "git+https://github.com/R-js/libRmath.js.git",
+          "bugs": "https://github.com/R-js/libRmath.js/issues",
+          "npm": "https://www.npmjs.com/package/lib-r-math.js"
+        }
+      },
+      "score": {
+        "final": 84.70419,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 31043,
+        "weekly": 5959
+      },
+      "dependents": "3",
+      "updated": "2026-07-25T09:19:33.961Z",
+      "searchScore": 84.06526,
+      "package": {
+        "name": "@types/shuffle-array",
+        "keywords": [],
+        "version": "1.0.5",
+        "description": "TypeScript definitions for shuffle-array",
+        "sanitized_name": "@types/shuffle-array",
+        "publisher": {
+          "email": "ts-npm-types@microsoft.com",
+          "username": "types"
+        },
+        "maintainers": [
+          {
+            "email": "ts-npm-types@microsoft.com",
+            "username": "types"
+          }
+        ],
+        "license": "MIT",
+        "date": "2023-11-21T01:04:16.387Z",
+        "links": {
+          "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/shuffle-array",
+          "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "npm": "https://www.npmjs.com/package/@types/shuffle-array"
+        }
+      },
+      "score": {
+        "final": 84.06526,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 18858,
+        "weekly": 6627
+      },
+      "dependents": "8",
+      "updated": "2026-07-21T09:39:04.830Z",
+      "searchScore": 80.85568,
+      "package": {
+        "name": "java-random",
+        "keywords": [
+          "java",
+          "random",
+          "prng"
+        ],
+        "version": "0.4.0",
+        "description": "A partial implementation of java.util.Random for JS",
+        "sanitized_name": "java-random",
+        "publisher": {
+          "email": "ray@bellis.me.uk",
+          "username": "raybellis"
+        },
+        "maintainers": [
+          {
+            "email": "ray@bellis.me.uk",
+            "username": "raybellis"
+          }
+        ],
+        "license": "ISC",
+        "date": "2018-11-15T13:00:57.572Z",
+        "links": {
+          "homepage": "https://github.com/raybellis/java-random#readme",
+          "repository": "git+https://github.com/raybellis/java-random.git",
+          "bugs": "https://github.com/raybellis/java-random/issues",
+          "npm": "https://www.npmjs.com/package/java-random"
+        }
+      },
+      "score": {
+        "final": 80.85568,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 4114,
+        "weekly": 817
+      },
+      "dependents": "0",
+      "updated": "2026-07-22T13:01:48.896Z",
+      "searchScore": 80.81499,
+      "package": {
+        "name": "@siteimprove/alfa-test",
+        "keywords": [],
+        "version": "0.119.0",
+        "description": "A simple test library sitting on top of vitest",
+        "sanitized_name": "@siteimprove/alfa-test",
+        "publisher": {
+          "email": "software@siteimprove.com",
+          "username": "ahinpm"
+        },
+        "maintainers": [
+          {
+            "email": "software@siteimprove.com",
+            "username": "ahinpm"
+          },
+          {
+            "email": "platops@siteimprove.com",
+            "username": "si-npm"
+          }
+        ],
+        "license": "MIT",
+        "date": "2026-07-22T13:01:17.839Z",
+        "links": {
+          "homepage": "https://alfa.siteimprove.com",
+          "repository": "git+https://github.com/Siteimprove/alfa.git",
+          "bugs": "https://github.com/siteimprove/alfa/issues",
+          "npm": "https://www.npmjs.com/package/@siteimprove/alfa-test"
+        }
+      },
+      "score": {
+        "final": 80.81499,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 19872965,
+        "weekly": 5590878
+      },
+      "dependents": "34",
+      "updated": "2026-07-25T09:23:37.154Z",
+      "searchScore": 80.217094,
+      "package": {
+        "name": "random-bytes",
+        "keywords": [
+          "bytes",
+          "generator",
+          "random",
+          "safe"
+        ],
+        "version": "1.0.0",
+        "description": "URL and cookie safe UIDs",
+        "sanitized_name": "random-bytes",
+        "publisher": {
+          "email": "doug@somethingdoug.com",
+          "username": "dougwilson"
+        },
+        "maintainers": [
+          {
+            "email": "hello@blakeembrey.com",
+            "username": "blakeembrey"
+          },
+          {
+            "email": "doug@somethingdoug.com",
+            "username": "dougwilson"
+          }
+        ],
+        "license": "MIT",
+        "date": "2016-01-17T07:32:57.071Z",
+        "links": {
+          "homepage": "https://github.com/crypto-utils/random-bytes",
+          "repository": "https://github.com/crypto-utils/random-bytes",
+          "bugs": "https://github.com/crypto-utils/random-bytes/issues",
+          "npm": "https://www.npmjs.com/package/random-bytes"
+        }
+      },
+      "score": {
+        "final": 80.217094,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 62208964,
+        "weekly": 16181098
+      },
+      "dependents": "7",
+      "updated": "2026-07-25T09:22:29.400Z",
+      "searchScore": 80.10606,
+      "package": {
+        "name": "@lukeed/csprng",
+        "keywords": [
+          "crypto",
+          "browser",
+          "isomorphic",
+          "getRandomValues",
+          "randomFill",
+          "random",
+          "csprng"
+        ],
+        "version": "1.1.0",
+        "description": "An alias package for `crypto.randomBytes` in Node.js and/or browsers",
+        "sanitized_name": "@lukeed/csprng",
+        "publisher": {
+          "email": "luke@lukeed.com",
+          "username": "lukeed"
+        },
+        "maintainers": [
+          {
+            "email": "luke@lukeed.com",
+            "username": "lukeed"
+          }
+        ],
+        "license": "MIT",
+        "date": "2023-03-31T19:54:10.527Z",
+        "links": {
+          "homepage": "https://github.com/lukeed/csprng#readme",
+          "repository": "git+https://github.com/lukeed/csprng.git",
+          "bugs": "https://github.com/lukeed/csprng/issues",
+          "npm": "https://www.npmjs.com/package/@lukeed/csprng"
+        }
+      },
+      "score": {
+        "final": 80.10606,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 109657025,
+        "weekly": 28277424
+      },
+      "dependents": "1056",
+      "updated": "2026-07-25T09:22:45.708Z",
+      "searchScore": 79.55979,
+      "package": {
+        "name": "crypto-random-string",
+        "keywords": [
+          "random",
+          "string",
+          "text",
+          "id",
+          "identifier",
+          "slug",
+          "salt",
+          "pin",
+          "crypto",
+          "strong",
+          "secure",
+          "hex",
+          "secret",
+          "protect"
+        ],
+        "version": "6.0.0",
+        "description": "Generate a cryptographically strong random string",
+        "sanitized_name": "crypto-random-string",
+        "publisher": {
+          "email": "sindresorhus@gmail.com",
+          "username": "sindresorhus"
+        },
+        "maintainers": [
+          {
+            "email": "sindresorhus@gmail.com",
+            "username": "sindresorhus"
+          }
+        ],
+        "license": "MIT",
+        "date": "2026-07-23T16:43:56.964Z",
+        "links": {
+          "homepage": "https://github.com/sindresorhus/crypto-random-string#readme",
+          "repository": "git+https://github.com/sindresorhus/crypto-random-string.git",
+          "bugs": "https://github.com/sindresorhus/crypto-random-string/issues",
+          "npm": "https://www.npmjs.com/package/crypto-random-string"
+        }
+      },
+      "score": {
+        "final": 79.55979,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 3314,
+        "weekly": 673
+      },
+      "dependents": 0,
+      "updated": "2026-07-22T15:01:12.345Z",
+      "searchScore": 78.52011,
+      "package": {
+        "name": "@siteimprove/alfa-test-deprecated",
+        "keywords": [],
+        "version": "0.108.2",
+        "description": "A simple test library sitting on top of the built-in Node.js assert module",
+        "sanitized_name": "@siteimprove/alfa-test-deprecated",
+        "publisher": {
+          "email": "platops@siteimprove.com",
+          "username": "si-npm"
+        },
+        "maintainers": [
+          {
+            "email": "software@siteimprove.com",
+            "username": "ahinpm"
+          },
+          {
+            "email": "platops@siteimprove.com",
+            "username": "si-npm"
+          }
+        ],
+        "license": "MIT",
+        "date": "2025-12-10T12:20:32.551Z",
+        "links": {
+          "homepage": "https://alfa.siteimprove.com",
+          "repository": "git+https://github.com/Siteimprove/alfa.git",
+          "bugs": "https://github.com/siteimprove/alfa/issues",
+          "npm": "https://www.npmjs.com/package/@siteimprove/alfa-test-deprecated"
+        }
+      },
+      "score": {
+        "final": 78.52011,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 9107476,
+        "weekly": 2367884
+      },
+      "dependents": "2",
+      "updated": "2026-07-25T09:21:05.248Z",
+      "searchScore": 78.29424,
+      "package": {
+        "name": "@csstools/postcss-random-function",
+        "keywords": [
+          "css",
+          "postcss-plugin",
+          "random"
+        ],
+        "version": "4.0.0",
+        "description": "Use the random function in CSS",
+        "sanitized_name": "@csstools/postcss-random-function",
+        "publisher": {
+          "email": "romainmenke@gmail.com",
+          "username": "romainmenke"
+        },
+        "maintainers": [
+          {
+            "email": "jonathantneal@hotmail.com",
+            "username": "jonathantneal"
+          },
+          {
+            "email": "sombragriselros@gmail.com",
+            "username": "alaguna"
+          },
+          {
+            "email": "romainmenke@gmail.com",
+            "username": "romainmenke"
+          }
+        ],
+        "license": "MIT-0",
+        "date": "2026-07-22T16:19:56.261Z",
+        "links": {
+          "homepage": "https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-random-function#readme",
+          "repository": "git+https://github.com/csstools/postcss-plugins.git",
+          "bugs": "https://github.com/csstools/postcss-plugins/issues",
+          "npm": "https://www.npmjs.com/package/@csstools/postcss-random-function"
+        }
+      },
+      "score": {
+        "final": 78.29424,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 6505338,
+        "weekly": 1597418
+      },
+      "dependents": "128",
+      "updated": "2026-07-25T09:17:42.507Z",
+      "searchScore": 75.52401,
+      "package": {
+        "name": "@ethersproject/random",
+        "keywords": [
+          "Ethereum",
+          "ethers",
+          "random"
+        ],
+        "version": "5.8.0",
+        "description": "Random utility functions for ethers.",
+        "sanitized_name": "@ethersproject/random",
+        "publisher": {
+          "email": "me@ricmoo.com",
+          "username": "ricmoo"
+        },
+        "maintainers": [
+          {
+            "email": "me@ricmoo.com",
+            "username": "ricmoo"
+          }
+        ],
+        "license": "MIT",
+        "date": "2025-02-26T22:02:06.991Z",
+        "links": {
+          "homepage": "https://github.com/ethers-io/ethers.js#readme",
+          "repository": "git://github.com/ethers-io/ethers.js.git",
+          "bugs": "https://github.com/ethers-io/ethers.js/issues",
+          "npm": "https://www.npmjs.com/package/@ethersproject/random"
+        }
+      },
+      "score": {
+        "final": 75.52401,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 276350,
+        "weekly": 76919
+      },
+      "dependents": "7",
+      "updated": "2026-07-25T09:23:48.006Z",
+      "searchScore": 74.6256,
+      "package": {
+        "name": "rc4",
+        "keywords": [
+          "rc4",
+          "random",
+          "generator",
+          "seed"
+        ],
+        "version": "0.1.5",
+        "description": "RC4 random number generator",
+        "sanitized_name": "rc4",
+        "publisher": {
+          "email": "oleg.grenrus@iki.fi",
+          "username": "phadej"
+        },
+        "maintainers": [
+          {
+            "email": "oleg.grenrus@iki.fi",
+            "username": "phadej"
+          }
+        ],
+        "license": "MIT",
+        "date": "2015-04-24T06:58:36.442Z",
+        "links": {
+          "homepage": "https://github.com/phadej/rc4",
+          "repository": "git@github.com:phadej/rc4.git",
+          "bugs": "https://github.com/phadej/rc4/issues",
+          "npm": "https://www.npmjs.com/package/rc4"
+        }
+      },
+      "score": {
+        "final": 74.6256,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 3456930,
+        "weekly": 901690
+      },
+      "dependents": "86",
+      "updated": "2026-07-25T09:18:04.590Z",
+      "searchScore": 74.32184,
+      "package": {
+        "name": "@pulumi/random",
+        "keywords": [
+          "pulumi",
+          "random"
+        ],
+        "version": "4.21.1",
+        "description": "A Pulumi package to safely use randomness in Pulumi programs.",
+        "sanitized_name": "@pulumi/random",
+        "publisher": {
+          "email": "bot@pulumi.com",
+          "username": "pulumi-bot"
+        },
+        "maintainers": [
+          {
+            "email": "joe@pulumi.com",
+            "username": "joeduffy"
+          },
+          {
+            "email": "bot@pulumi.com",
+            "username": "pulumi-bot"
+          }
+        ],
+        "license": "Apache-2.0",
+        "date": "2026-07-22T19:26:55.366Z",
+        "links": {
+          "homepage": "https://pulumi.io",
+          "repository": "git+https://github.com/pulumi/pulumi-random.git",
+          "bugs": "https://github.com/pulumi/pulumi-random/issues",
+          "npm": "https://www.npmjs.com/package/@pulumi/random"
+        }
+      },
+      "score": {
+        "final": 74.32184,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 889,
+        "weekly": 22
+      },
+      "dependents": 0,
+      "updated": "2026-07-24T09:56:15.804Z",
+      "searchScore": 74.12639,
+      "package": {
+        "name": "rng-kit",
+        "keywords": [
+          "random",
+          "rng",
+          "prng"
+        ],
+        "version": "0.5.1",
+        "description": "Random and pseudo-random number generation lib.",
+        "sanitized_name": "rng-kit",
+        "publisher": {
+          "email": "cedric.ronvel@gmail.com",
+          "username": "cronvel"
+        },
+        "maintainers": [
+          {
+            "email": "cedric.ronvel@gmail.com",
+            "username": "cronvel"
+          }
+        ],
+        "license": "MIT",
+        "date": "2026-07-03T09:43:01.628Z",
+        "links": {
+          "homepage": "https://github.com/cronvel/rng-kit#readme",
+          "repository": "git+https://github.com/cronvel/rng-kit.git",
+          "bugs": "https://github.com/cronvel/rng-kit/issues",
+          "npm": "https://www.npmjs.com/package/rng-kit"
+        }
+      },
+      "score": {
+        "final": 74.12639,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    }
+  ],
+  "total": 32516,
+  "time": "2026-07-26T05:06:59.977Z"
+}

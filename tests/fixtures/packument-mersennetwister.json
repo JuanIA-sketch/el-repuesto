@@ -1,0 +1,478 @@
+{
+  "_id": "mersennetwister",
+  "_rev": "17-d4547918f103a677fe519d8c8163142c",
+  "name": "mersennetwister",
+  "dist-tags": {
+    "latest": "0.2.3"
+  },
+  "versions": {
+    "0.1.0": {
+      "name": "mersennetwister",
+      "version": "0.1.0",
+      "keywords": [
+        "rng",
+        "random",
+        "mersennetwister"
+      ],
+      "author": {
+        "name": "Raphael Pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "license": {
+        "url": "http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/CODES/mt19937ar.c",
+        "type": "Mersenne Twister"
+      },
+      "_id": "mersennetwister@0.1.0",
+      "maintainers": [
+        {
+          "name": "pigulla",
+          "email": "raphael@pigulla.net"
+        }
+      ],
+      "bugs": {
+        "url": "https://github.com/pigulla/mersennetwister/issues"
+      },
+      "dist": {
+        "shasum": "9d1c1aafaa14eaa54f2ec2bad9b0eebbd3d440be",
+        "tarball": "https://registry.npmjs.org/mersennetwister/-/mersennetwister-0.1.0.tgz",
+        "integrity": "sha512-GA0Kn4Ez1LzMp8diZNG+9X3UJOQ8R3R7vYKHHjKsDjGkUEqexrUGWy6zAiqf2E2A5zLj3wqYyWuX9P1mgs35lw==",
+        "signatures": [
+          {
+            "sig": "MEYCIQC9/4sq4HSUjaeAvC3NGLpXumAwECLr5ZB9R+6KsZHE6wIhAKipQvAL748K33yJMS9fMWsHUq1SdiZw6qEAtWJcYcFF",
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+          }
+        ]
+      },
+      "main": "./src/MersenneTwister.js",
+      "_from": ".",
+      "_npmUser": {
+        "name": "pigulla",
+        "email": "raphael@pigulla.net"
+      },
+      "repository": {
+        "url": "https://github.com/pigulla/mersennetwister",
+        "type": "git"
+      },
+      "_npmVersion": "1.2.30",
+      "description": "A standalone, pure JavaScript implementation of the Mersenne Twister pseudo random number generator. Compatible with Node.js, requirejs and browser environments.",
+      "devDependencies": {
+        "grunt": "0.4.1",
+        "grunt-contrib-jshint": "0.6.0",
+        "grunt-contrib-jasmine": "0.5.0",
+        "grunt-template-jasmine-requirejs": "0.1.2"
+      },
+      "directories": {},
+      "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+    },
+    "0.1.1": {
+      "name": "mersennetwister",
+      "version": "0.1.1",
+      "keywords": [
+        "rng",
+        "random",
+        "mersennetwister"
+      ],
+      "author": {
+        "name": "Raphael Pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "license": {
+        "url": "http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/CODES/mt19937ar.c",
+        "type": "Mersenne Twister"
+      },
+      "_id": "mersennetwister@0.1.1",
+      "maintainers": [
+        {
+          "name": "pigulla",
+          "email": "raphael@pigulla.net"
+        }
+      ],
+      "bugs": {
+        "url": "https://github.com/pigulla/mersennetwister/issues"
+      },
+      "jam": {
+        "main": "src/MersenneTwister.js"
+      },
+      "dist": {
+        "shasum": "274987f15a64e5779a81853598efcb99ce7f17c0",
+        "tarball": "https://registry.npmjs.org/mersennetwister/-/mersennetwister-0.1.1.tgz",
+        "integrity": "sha512-pnY6xejOpT88NzMJPWpWG+1hdMDigknfymc7zRZTRGq5+hBEZKU2R8xzguEV5WbUabyDkAo6vRR2JgjKWLBp4Q==",
+        "signatures": [
+          {
+            "sig": "MEUCIQDnwUU52oL8AKaRIljbCgC77uiw+Tc/pL5qO7afSXf7NgIgU35RGjQxUXTi77Mpky3dMRcHjZuYgq3NigpC6LGYGSg=",
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+          }
+        ]
+      },
+      "main": "./src/MersenneTwister.js",
+      "_from": ".",
+      "_npmUser": {
+        "name": "pigulla",
+        "email": "raphael@pigulla.net"
+      },
+      "categories": [
+        "Utilities"
+      ],
+      "repository": {
+        "url": "https://github.com/pigulla/mersennetwister",
+        "type": "git"
+      },
+      "_npmVersion": "1.2.30",
+      "description": "A standalone, pure JavaScript implementation of the Mersenne Twister pseudo random number generator. Compatible with Node.js, requirejs and browser environments.",
+      "devDependencies": {
+        "grunt": "0.4.1",
+        "grunt-jsdoc": "0.3.3",
+        "grunt-contrib-jshint": "0.6.0",
+        "grunt-contrib-jasmine": "0.5.0",
+        "grunt-template-jasmine-requirejs": "0.1.2"
+      },
+      "directories": {},
+      "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+    },
+    "0.2.0": {
+      "name": "mersennetwister",
+      "version": "0.2.0",
+      "keywords": [
+        "rng",
+        "random",
+        "mersennetwister"
+      ],
+      "author": {
+        "name": "Raphael Pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "license": {
+        "url": "http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/CODES/mt19937ar.c",
+        "type": "Mersenne Twister"
+      },
+      "_id": "mersennetwister@0.2.0",
+      "maintainers": [
+        {
+          "name": "pigulla",
+          "email": "raphael@pigulla.net"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Kirby Banman",
+          "email": "kirby.banman@gmail.com"
+        }
+      ],
+      "homepage": "https://github.com/pigulla/mersennetwister",
+      "bugs": {
+        "url": "https://github.com/pigulla/mersennetwister/issues"
+      },
+      "jam": {
+        "main": "src/MersenneTwister.js"
+      },
+      "dist": {
+        "shasum": "4ae11d93f008ec22c90273bf3528664fb3781f80",
+        "tarball": "https://registry.npmjs.org/mersennetwister/-/mersennetwister-0.2.0.tgz",
+        "integrity": "sha512-K2CV3uQ7ugedgqLcWj2m8iH2QGeWPeKEkLiiKcXSh18ctBm35cPR9PxlFVsvCi9VOpEbTA2u8SRLQrXXpeUN8A==",
+        "signatures": [
+          {
+            "sig": "MEYCIQCKybdO4rhGMVVqHOgLOV/944VLXHm+8w796ad5CJL4twIhAMa4T1RXNfILFzd94vv4zfeY0FsrYotIBh4OgdTStDSX",
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+          }
+        ]
+      },
+      "main": "./src/MersenneTwister.js",
+      "_from": ".",
+      "_npmUser": {
+        "name": "pigulla",
+        "email": "raphael@pigulla.net"
+      },
+      "categories": [
+        "Utilities"
+      ],
+      "repository": {
+        "url": "https://github.com/pigulla/mersennetwister",
+        "type": "git"
+      },
+      "_npmVersion": "1.4.3",
+      "description": "A standalone, pure JavaScript implementation of the Mersenne Twister pseudo random number generator. Compatible with Node.js, requirejs and browser environments.",
+      "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-jsdoc": "0.5.6",
+        "grunt-contrib-jshint": "0.10.0",
+        "grunt-contrib-jasmine": "0.5.3",
+        "grunt-template-jasmine-requirejs": "0.1.10"
+      },
+      "directories": {},
+      "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+    },
+    "0.2.1": {
+      "name": "mersennetwister",
+      "version": "0.2.1",
+      "keywords": [
+        "rng",
+        "random",
+        "mersennetwister"
+      ],
+      "author": {
+        "name": "Raphael Pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "license": {
+        "url": "http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/CODES/mt19937ar.c",
+        "type": "Mersenne Twister"
+      },
+      "_id": "mersennetwister@0.2.1",
+      "maintainers": [
+        {
+          "name": "pigulla",
+          "email": "raphael@pigulla.net"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Kirby Banman",
+          "email": "kirby.banman@gmail.com"
+        }
+      ],
+      "homepage": "https://github.com/pigulla/mersennetwister",
+      "bugs": {
+        "url": "https://github.com/pigulla/mersennetwister/issues"
+      },
+      "jam": {
+        "main": "src/MersenneTwister.js"
+      },
+      "dist": {
+        "shasum": "efd5dbc63bfaa957c65189d0f2bce922f127fbb8",
+        "tarball": "https://registry.npmjs.org/mersennetwister/-/mersennetwister-0.2.1.tgz",
+        "integrity": "sha512-CTdqFEbzycZQ2/LPcOiNNHikw5hvH29mlktRGePiuTrlALP98V5U8BwKcXzl0GXWU/LOhPG/cLfOOJsTIGfGKQ==",
+        "signatures": [
+          {
+            "sig": "MEUCIAICdBjAuY9b3dOm/+HKqXsvrLcqpCBBLktR1CC9BKdqAiEA0Z4AAigIqRotNniQL/2COWA5THXqveRxJB4axhyqnKs=",
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+          }
+        ]
+      },
+      "main": "./src/MersenneTwister.js",
+      "_from": ".",
+      "_shasum": "efd5dbc63bfaa957c65189d0f2bce922f127fbb8",
+      "gitHead": "6df43a2aebef62655ae67203bfbd59b14a38f0f5",
+      "scripts": {
+        "test": "grunt default"
+      },
+      "_npmUser": {
+        "name": "pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "categories": [
+        "Utilities"
+      ],
+      "repository": {
+        "url": "https://github.com/pigulla/mersennetwister",
+        "type": "git"
+      },
+      "_npmVersion": "1.4.14",
+      "description": "A standalone, pure JavaScript implementation of the Mersenne Twister pseudo random number generator. Compatible with Node.js, requirejs and browser environments.",
+      "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-jsdoc": "0.5.6",
+        "grunt-contrib-jshint": "0.10.0",
+        "grunt-contrib-jasmine": "0.5.3",
+        "grunt-template-jasmine-requirejs": "0.1.10"
+      },
+      "directories": {},
+      "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+    },
+    "0.2.2": {
+      "name": "mersennetwister",
+      "version": "0.2.2",
+      "keywords": [
+        "rng",
+        "random",
+        "mersennetwister"
+      ],
+      "author": {
+        "name": "Raphael Pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "license": "SEE LICENSE IN LICENSE",
+      "_id": "mersennetwister@0.2.2",
+      "maintainers": [
+        {
+          "name": "pigulla",
+          "email": "raphael@pigulla.net"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Kirby Banman",
+          "email": "kirby.banman@gmail.com"
+        }
+      ],
+      "homepage": "https://github.com/pigulla/mersennetwister#readme",
+      "bugs": {
+        "url": "https://github.com/pigulla/mersennetwister/issues"
+      },
+      "jam": {
+        "main": "src/MersenneTwister.js"
+      },
+      "dist": {
+        "shasum": "004eddf8606f95a0a438ecac976c1ea8f2b18f71",
+        "tarball": "https://registry.npmjs.org/mersennetwister/-/mersennetwister-0.2.2.tgz",
+        "integrity": "sha512-+8z/9SLTAKeFnkaK/N73tewJk2X/u1l+Aa0/A68MZ0Xq+IDsD8VHTE2p/eNmS4m13BK2FOtDb/h2OBNr/HClwQ==",
+        "signatures": [
+          {
+            "sig": "MEQCIGTTMLyfRr9m1mSHTjvihwqGrZDN8T7PtXmB3BLGEnzvAiA13iOJmmAetUlZvmKZLlDgRGeZ5nDASveNNxExYi9Slw==",
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+          }
+        ]
+      },
+      "main": "./src/MersenneTwister.js",
+      "_from": ".",
+      "_shasum": "004eddf8606f95a0a438ecac976c1ea8f2b18f71",
+      "gitHead": "a2ba91251335437f465bf15d34075b3164a9508a",
+      "scripts": {
+        "test": "grunt default"
+      },
+      "_npmUser": {
+        "name": "pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "categories": [
+        "Utilities"
+      ],
+      "repository": {
+        "url": "git+https://github.com/pigulla/mersennetwister.git",
+        "type": "git"
+      },
+      "_npmVersion": "2.14.7",
+      "description": "A standalone, pure JavaScript implementation of the Mersenne Twister pseudo random number generator. Compatible with Node.js, requirejs and browser environments.",
+      "_nodeVersion": "4.2.1",
+      "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-jsdoc": "1.0.0",
+        "grunt-contrib-jshint": "0.11.3",
+        "grunt-contrib-jasmine": "~0.5.3",
+        "grunt-template-jasmine-requirejs": "~0.1.10"
+      },
+      "directories": {},
+      "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+    },
+    "0.2.3": {
+      "name": "mersennetwister",
+      "version": "0.2.3",
+      "keywords": [
+        "rng",
+        "random",
+        "mersennetwister"
+      ],
+      "author": {
+        "name": "Raphael Pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "license": "BSD-3-Clause",
+      "_id": "mersennetwister@0.2.3",
+      "maintainers": [
+        {
+          "name": "pigulla",
+          "email": "raphael@pigulla.net"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Kirby Banman",
+          "email": "kirby.banman@gmail.com"
+        }
+      ],
+      "homepage": "https://github.com/pigulla/mersennetwister#readme",
+      "bugs": {
+        "url": "https://github.com/pigulla/mersennetwister/issues"
+      },
+      "jam": {
+        "main": "src/MersenneTwister.js"
+      },
+      "dist": {
+        "shasum": "269a42c9328f0b07d2acf7ff372c97accfe2e87b",
+        "tarball": "https://registry.npmjs.org/mersennetwister/-/mersennetwister-0.2.3.tgz",
+        "integrity": "sha512-r/Lx4L1jqZu8dsbDqw2d+EgRXf4F/yLTUbuMHUstDge9EsLAlANEvooy1u4YcgLOCV7GEmpxMGKtIhxFhhJqNA==",
+        "signatures": [
+          {
+            "sig": "MEYCIQCrzi++Gs/7BLpC9KAd6Q6BWJA7RGBJfdfy5N/1LXRRPwIhAKx+MfsQ4kw9fR2VdEAbTPXNp+dixLunTwonHVGY+dmn",
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+          }
+        ]
+      },
+      "main": "./src/MersenneTwister.js",
+      "_from": ".",
+      "_shasum": "269a42c9328f0b07d2acf7ff372c97accfe2e87b",
+      "gitHead": "5a747d99ef0831e5d1ffddfdbb6ea70f539501d4",
+      "scripts": {
+        "test": "grunt default"
+      },
+      "_npmUser": {
+        "name": "pigulla",
+        "email": "pigulla@four66.com"
+      },
+      "categories": [
+        "Utilities"
+      ],
+      "repository": {
+        "url": "git+https://github.com/pigulla/mersennetwister.git",
+        "type": "git"
+      },
+      "_npmVersion": "2.14.7",
+      "description": "A standalone, pure JavaScript implementation of the Mersenne Twister pseudo random number generator. Compatible with Node.js, requirejs and browser environments.",
+      "_nodeVersion": "4.2.3",
+      "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-jsdoc": "1.1.0",
+        "grunt-contrib-jshint": "0.11.3",
+        "grunt-contrib-jasmine": "~0.5.3",
+        "grunt-template-jasmine-requirejs": "~0.1.10"
+      },
+      "directories": {},
+      "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+    }
+  },
+  "time": {
+    "created": "2013-06-16T12:50:16.303Z",
+    "modified": "2026-04-15T19:13:15.032Z",
+    "0.1.0": "2013-06-16T12:50:20.968Z",
+    "0.1.1": "2013-06-19T18:46:12.582Z",
+    "0.2.0": "2014-07-15T17:44:41.065Z",
+    "0.2.1": "2014-10-16T11:38:12.490Z",
+    "0.2.2": "2015-10-28T16:19:29.896Z",
+    "0.2.3": "2015-12-18T08:09:54.410Z"
+  },
+  "bugs": {
+    "url": "https://github.com/pigulla/mersennetwister/issues"
+  },
+  "author": {
+    "name": "Raphael Pigulla",
+    "email": "pigulla@four66.com"
+  },
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/pigulla/mersennetwister#readme",
+  "keywords": [
+    "rng",
+    "random",
+    "mersennetwister"
+  ],
+  "repository": {
+    "url": "git+https://github.com/pigulla/mersennetwister.git",
+    "type": "git"
+  },
+  "description": "A standalone, pure JavaScript implementation of the Mersenne Twister pseudo random number generator. Compatible with Node.js, requirejs and browser environments.",
+  "contributors": [
+    {
+      "name": "Kirby Banman",
+      "email": "kirby.banman@gmail.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "pigulla",
+      "email": "pigulla@four66.com"
+    }
+  ],
+  "readme": "# mersennetwister\nThe Mersenne Twister is a pseudo-random number generator invented by Makoto Matsumoto in 1997. Details can be found on the [Wikipedia page](http://en.wikipedia.org/wiki/Mersenne_twister) and on Matsumoto's [website](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt.html).\n\nThis implementation is based on Sean McCullough's [port](https://gist.github.com/banksean/300494) of the original C code written by Makato Matsumoto and Takuji Nishimura.\n\nImprovements over Sean's version are\n\n  - more idiomatic, [jshint](http://www.jshint.com/)-compliant and [jsdoc](http://usejsdoc.org/)-annotated code\n  - compatible with [Node.js](http://nodejs.org/), [requirejs](http://requirejs.org/)  and browser environments\n  - available as a module for [npm](https://npmjs.org/), [Jam](http://jamjs.org/) and [Bower](http://bower.io/)\n  - (somewhat) unit tested ;-)\n\nPlease note that the mersenne twister is [not cryptographically secure](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/efaq.html).\n\n## Installation and setup\n#### Node.js\nSimply run `npm install mersennetwister` (or `npm install --save mersennetwister` of you want to directly add it to your package.json file). Import as usual: `var MersenneTwister = require('mersennetwister');`\n\n#### Jam\nUse the Jam command line tool: `jam install mersennetwister` and import as usual `require(['mersennetwister'], function (MersenneTwister) { ...`\n\n#### Bower\nVia the Bower tool: `bower install mersennetwister`\n\n#### requirejs\nTools like Jam will usually configure requirejs so that it can be accessed via its package name (i.e., `mersennetwister`). If you use requirejs without such a customized configuration you need to import it via its camelcased filename: `requirejs(['MersenneTwister'], function (MersenneTwister) { ...`\n\n#### Standalone\nDownload and include the `src/MersenneTwister.js` file: `<script src=\"path/to/MersenneTwister.js\"></script>`. It is now available as the global variable `MersenneTwister`.\n\n## Usage\nYou can either just use the static `random` method of the module, which will return a random float just like [`Math.random`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) does. If desired you can also instantiate your own instance of the mersenne twister and use its methods:\n\n```javascript\nvar mt = new MersenneTwister(seed); // if no seed is defined, seed randomly\n\nmt.int();    // random 32-bit integer\nmt.int31();  // random 31-bit integer\n\nmt.rnd();       // random float in the interval [0;1[ with 32-bit resolution\nmt.random();    // random float in the interval [0;1[ (same as mt.rnd() above)\nmt.rndHiRes();  // random float in the interval [0;1[ with 53-bit resolution\nmt.real();      // random float in the interval [0;1]\nmt.realx();     // random float in the interval ]0;1[\n\nmt.seed(seed);      // (re)seed the generator with an unsigned 32-bit integer\nmt.seedArray(key);  // (re)seed using a state vector of unsigned 32-bit integers\n```\n\nTake a look at the inventor´s [website](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt.html) if more detailed information is required.\n\n## Licensing\nAs indicated [here](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/elicense.html), the Mersenne Twister algorithm is free to be used for any purpose, including commercial use. The license file of this module contains the BSD 3-clause license found in the [C implementation](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/CODES/mt19937ar.c) on which it is based.\n\n## Changelog\n\n##### 0.2.3 (12/18/2015)\n  - updated license used to BSD-3-Clause (@sibartlett)\n\n##### 0.2.2 (10/28/2015)\n  - fixed typo readme\n  - fixed license in package.json\n  - bump some dependencies\n\n##### 0.2.1 (10/16/2014)\n  - added bower.json (with ignore section) and .editorconfig\n\n##### 0.2.0 (07/13/2014)\n  - added `.random()` alias to `.rnd()`\n\n##### 0.1.1 (06/19/2013)\n  - published as a Jam [module](http://jamjs.org/packages/#/details/mersennetwister)\n  - registered as a [Bower](http://bower.io/) component\n  - added installation instructions\n  - completed jsdoc annotations and added build target\n  - changelog added ;)\n\n##### 0.1.0 (06/16/2013)\n  - initial release\n  - published as an npm [module](https://npmjs.org/package/mersennetwister)\n",
+  "readmeFilename": "README.md",
+  "users": {
+    "andrew.medvedev": true
+  }
+}

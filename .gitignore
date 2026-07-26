@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.el-repuesto/
+*.log
+.env
+.env.*
+*.pem
+*.key

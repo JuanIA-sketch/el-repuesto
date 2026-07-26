@@ -1,0 +1,32 @@
+{
+  "name": "el-repuesto",
+  "version": "0.1.1",
+  "description": "Lee el reporte de El Filtro y te dice qué hacer con cada dependencia problemática: subir de versión o cambiar de paquete. 100% determinístico, sin IA ni API key.",
+  "license": "MIT",
+  "author": "Juan Carlos Caro (JuanIA-sketch)",
+  "repository": { "type": "git", "url": "git+https://github.com/JuanIA-sketch/el-repuesto.git" },
+  "homepage": "https://github.com/JuanIA-sketch/el-repuesto#readme",
+  "bugs": { "url": "https://github.com/JuanIA-sketch/el-repuesto/issues" },
+  "keywords": ["dependencias", "reemplazo", "upgrade", "npm-audit", "deprecated", "abandonado", "cli"],
+  "type": "module",
+  "bin": { "el-repuesto": "bin/el-repuesto.js" },
+  "files": ["bin", "dist", "README.md", "LICENSE"],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc",
+    "test": "npm run build && vitest run",
+    "test:watch": "vitest",
+    "dev": "tsx src/cli.ts"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0",
+    "vitest": "^2.1.0"
+  }
+}
